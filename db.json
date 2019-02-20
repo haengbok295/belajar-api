@@ -1,123 +1,124 @@
 {
-  "Mahasiswa": [{
+  "Mahasiswa": 
+    [{
   "id": 1,
-  "name": "Duffy Glantz",
+  "name": "Stephen Mabbott",
   "gender": "Male"
 }, {
   "id": 2,
-  "name": "Nicko Adger",
+  "name": "Ken De Beauchamp",
   "gender": "Male"
 }, {
   "id": 3,
-  "name": "Morry Raynard",
+  "name": "Tann Davies",
   "gender": "Male"
 }, {
   "id": 4,
-  "name": "Gawen Goggins",
-  "gender": "Male"
+  "name": "Donnajean Cooper",
+  "gender": "Female"
 }, {
   "id": 5,
-  "name": "Sheppard Dicky",
-  "gender": "Male"
+  "name": "Heda Billington",
+  "gender": "Female"
 }, {
   "id": 6,
-  "name": "Ashlie Le Jean",
+  "name": "Katrinka Vallentin",
   "gender": "Female"
 }, {
   "id": 7,
-  "name": "Crystie Forrest",
-  "gender": "Female"
+  "name": "Barnett De Gowe",
+  "gender": "Male"
 }, {
   "id": 8,
-  "name": "Marlee Gatward",
+  "name": "Camilla Zanassi",
   "gender": "Female"
 }, {
   "id": 9,
-  "name": "Sela Corry",
-  "gender": "Female"
+  "name": "Con Caghy",
+  "gender": "Male"
 }, {
   "id": 10,
-  "name": "Gearalt Teenan",
+  "name": "Ashlin McKmurrie",
   "gender": "Male"
 }, {
   "id": 11,
-  "name": "Leanora Caldron",
-  "gender": "Female"
+  "name": "Isaak Bellamy",
+  "gender": "Male"
 }, {
   "id": 12,
-  "name": "Gabrielle Prin",
-  "gender": "Female"
+  "name": "Gerrard Edmonston",
+  "gender": "Male"
 }, {
   "id": 13,
-  "name": "Vickie Papaminas",
+  "name": "Nancee Laville",
   "gender": "Female"
 }, {
   "id": 14,
-  "name": "Devinne Jurgensen",
-  "gender": "Female"
+  "name": "Guy Hempel",
+  "gender": "Male"
 }, {
   "id": 15,
-  "name": "Sofie Mcasparan",
-  "gender": "Female"
+  "name": "Zedekiah Fausset",
+  "gender": "Male"
 }, {
   "id": 16,
-  "name": "Phip Keymer",
-  "gender": "Male"
+  "name": "Afton Rising",
+  "gender": "Female"
 }, {
   "id": 17,
-  "name": "Whit Laxson",
-  "gender": "Male"
+  "name": "Lindsey Fronks",
+  "gender": "Female"
 }, {
   "id": 18,
-  "name": "Trude Richarson",
+  "name": "Joey Rameaux",
   "gender": "Female"
 }, {
   "id": 19,
-  "name": "Gerhardt Carmo",
-  "gender": "Male"
+  "name": "Noemi Sole",
+  "gender": "Female"
 }, {
   "id": 20,
-  "name": "Rurik Simek",
-  "gender": "Male"
+  "name": "Liva Franceschelli",
+  "gender": "Female"
 }, {
   "id": 21,
-  "name": "Marni Comber",
+  "name": "Michelle Ellens",
   "gender": "Female"
 }, {
   "id": 22,
-  "name": "Consalve Acreman",
+  "name": "Thurstan Duchart",
   "gender": "Male"
 }, {
   "id": 23,
-  "name": "Gregorius Fugere",
+  "name": "Burg Pharoah",
   "gender": "Male"
 }, {
   "id": 24,
-  "name": "Kaiser Crosbie",
-  "gender": "Male"
+  "name": "Stace Pheasant",
+  "gender": "Female"
 }, {
   "id": 25,
-  "name": "Jae Dellit",
+  "name": "Kenton Balderstone",
   "gender": "Male"
 }, {
   "id": 26,
-  "name": "Man Finnes",
-  "gender": "Male"
+  "name": "Ginnifer Fishley",
+  "gender": "Female"
 }, {
   "id": 27,
-  "name": "Pebrook Shatford",
+  "name": "Benedick Roocroft",
   "gender": "Male"
 }, {
   "id": 28,
-  "name": "Bettine Whelan",
+  "name": "Aidan Coskerry",
   "gender": "Female"
 }, {
   "id": 29,
-  "name": "Giff Reace",
-  "gender": "Male"
+  "name": "Ginevra Medd",
+  "gender": "Female"
 }, {
   "id": 30,
-  "name": "Kissie Flintoff",
+  "name": "Dahlia Swettenham",
   "gender": "Female"
 }]
 }
