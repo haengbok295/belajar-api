@@ -1,6 +1,5 @@
 {
-  "Mahasiswa": 
-    [{
+  "Mahasiswa": [{
   "id": 1,
   "name": "Stephen Mabbott",
   "gender": "Male"
